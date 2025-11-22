@@ -1,0 +1,9 @@
+[
+    {
+        "id": 1,
+        "name": "Gearbox",
+        "price": 200000,
+        "stock": 10,
+        "category": "Sparepart"
+    }
+]
